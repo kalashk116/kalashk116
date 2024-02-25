@@ -2,19 +2,13 @@
 <h3 align="center">An enthusiastic Software Engineer from INDIA</h3>
 
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning **Databases and Python**
   
-- 👯 I like to develop projects using **Java and Database**
-  
-- 😃 I am a **Freelancer**
-
-- 💬 Ask me about **Java Development**
+- 👯 I like to develop projects using **Python and SQL**
   
 - 📫 How to reach me: kalash.k116@gmail.com
-
-- 😄 Pronouns: **Samay (S-uh-m-uh-y; समय)**
   
-- ⚡ Fun fact: **Even if **
+- ⚡ I love Reading a books, Playing musical instruments and learning **new things**
 
 
 <p align="center">
