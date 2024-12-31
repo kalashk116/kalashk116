@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,mysql,sqlite,eclipse,androidstudio,git,github" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,pyspark,deep learning" />
   </a>
 </p>
 
