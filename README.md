@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalash Kondekar</h1>
-<h3 align="center">I'm a coding enthusiast who love coding in **Python** and working on **Flutter**</h3>
+<h3 align="center">I'm a coding enthusiast who love coding in Python, SQL and Big Data</h3>
 
 
 - 🌱 I’m currently learning **Databases and Python**
