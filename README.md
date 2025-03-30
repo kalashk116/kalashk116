@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kalash Kondekar</h1>
-<h3 align="center">I'm a coding enthusiast who love coding in Python, SQL and Big Data</h3>
+<h3 align="center">I'm a coding enthusiast who love coding in Python, SQL and Machine Learning</h3>
 
 
-- 🌱 I’m currently learning **Databases and Python**
+- 🌱 I’m currently learning **GenAI, NLP and Big Data**
   
-- 👯 I like to develop projects using **Python and SQL**
+- 👯 I like to develop projects using **Python, SQL and Machine Learning**
   
 - 📫 How to reach me: kalash.k116@gmail.com
   
